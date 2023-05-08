@@ -113,7 +113,7 @@ public class Jiu implements Tourist {
             checkBudget();
             System.out.println(" ");
         } else {
-            System.out.println("Cannot visit location," );
+            System.out.println("Cannot visit location" );
         }
     }
 
