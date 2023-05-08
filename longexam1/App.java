@@ -10,7 +10,7 @@ public class App {
         // print another message if you cannot visit the location.
         // 5. Each time you visit a location, call the checkBudgetMethod
 
-        System.out.println("JIU'S TRAVEL AGENDA!");
+        System.out.println("JAN BIANCA TEJOME'S TRAVEL AGENDA!");
 
         System.out.println(" ");
         
